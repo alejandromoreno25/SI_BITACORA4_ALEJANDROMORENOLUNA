@@ -6,8 +6,8 @@ Este es el desarrollo paso a paso de mi tarea SI BITACORA 4 de la asignatura Sis
     hacemos un docker-compose up -d para descargarlo y abrir nuestro contenedor.
 
     tras haber realizado esos pasos, y confirmado todo con docker ps en mi navegador he buscado localhost:3000 para abrir el nuevo sistema operativo:
-        ![IMAGEN](assets/CapturaEscritorio.png)
-    
+    ![IMAGEN](assets/CapturaEscritorio.png)
+
 **FASE NUMERO 3º**
     3.1
         Para empezar esta fase me he conectado al contenedor usar shh
@@ -15,7 +15,8 @@ Este es el desarrollo paso a paso de mi tarea SI BITACORA 4 de la asignatura Sis
     3.2
         nos salimos y lo iniciamos sin contraseña
         ![IMAGEN](assets/CapturadeIniciarSesion.png)
-
         Comprobamos que he conseguid hacer el txt
         ![IMAGEN](assets/capturatxtprueba.png)
+
+
         
