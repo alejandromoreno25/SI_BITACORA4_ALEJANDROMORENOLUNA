@@ -1,5 +1,6 @@
 # SI_BITACORA4_ALEJANDROMORENOLUNA
 Este es el desarrollo paso a paso de mi tarea SI BITACORA 4 de la asignatura Sistemas Informáticos.
+
 **FASE NUMERO 1º**
     En esta fase, en primer lugar crearemos el archivo dockr-compose.yml para poder descargar nuestro sistema operativo.
 
@@ -18,5 +19,6 @@ Este es el desarrollo paso a paso de mi tarea SI BITACORA 4 de la asignatura Sis
         Comprobamos que he conseguid hacer el txt
         ![IMAGEN](assets/capturatxtprueba.png)
 
-
+Errores:
+    No consigo que me funcione la implementación de la primera foto del escritorio. Por eso, no me ha dado tiempo a continuar no he conseguido solucionarlo. De todos modos, tiene la foto en la carpeta.
         
