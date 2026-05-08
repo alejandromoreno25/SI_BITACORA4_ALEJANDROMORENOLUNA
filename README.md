@@ -1,6 +1,6 @@
 # SI_BITACORA4_ALEJANDROMORENOLUNA
 Este es el desarrollo paso a paso de mi tarea SI BITACORA 4 de la asignatura Sistemas Informáticos.
-## FASE NUMERO 1º
+**FASE NUMERO 1º**
     En esta fase, en primer lugar crearemos el archivo dockr-compose.yml para poder descargar nuestro sistema operativo.
 
     hacemos un docker-compose up -d para descargarlo y abrir nuestro contenedor.
@@ -8,7 +8,7 @@ Este es el desarrollo paso a paso de mi tarea SI BITACORA 4 de la asignatura Sis
     tras haber realizado esos pasos, y confirmado todo con docker ps en mi navegador he buscado localhost:3000 para abrir el nuevo sistema operativo:
         ![IMAGEN](assets/CapturaEscritorio.png)
     
-## FASE NUMERO 3º
+**FASE NUMERO 3º**
     3.1
         Para empezar esta fase me he conectado al contenedor usar shh
         Posteriormente, tras poner mi contraseña ahora vamos a salirnos para comprobar que nos podemos conectar al servidor sin contraseña creado la llave.
