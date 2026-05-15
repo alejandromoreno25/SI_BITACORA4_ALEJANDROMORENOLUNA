@@ -12,9 +12,9 @@ Fecha: 15/05/2026
 
 **Tabla de Contenido:**
 
-[**Contenido	1**](#heading=h.mj3bbapd77b)
+[**1\. Análisis de Necesidades**](#heading=h.mj3bbapd77b)
 
-[**Referencias	2**](#referencias)
+[**Referencias**](#referencias)
 
 # **1\. Análisis de Necesidades**
 
